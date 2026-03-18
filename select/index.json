@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ゆうれいになりたい",
+  "base_artist": "Yuika",
+  "createdAt": "2026-03-18T03:11:13.008861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゆうれいになりたい",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_ゆうれいになりたい_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆうれいになりたい",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_ゆうれいになりたい_『ユイカ』.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ゆうれいになりたい",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_02_ゆうれいになりたい_『ユイカ』.txt"
+    }
+  ]
+}
